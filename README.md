@@ -4,7 +4,7 @@ A tensorflow and puppeteer based app that takes a list of URIs, maximum of 10 pe
 
 ## Installation
 
-Since this app utilizes Python 3 (tensorflow) and Nodejs 8 (puppeteer) it is recommended to build this app with Docker. To build the image:
+This app utilizes Python 3 (tensorflow) and Nodejs 8 (puppeteer) and is therefore recommended to build this app with Docker. To build the image:
 
 ```shell
 $ docker build -t paywall-classify .
